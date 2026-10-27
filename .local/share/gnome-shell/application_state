@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Nautilus.desktop" score="0" last-seen="1793087470"/>
+    <application id="gnome-initial-setup.desktop" score="0" last-seen="1793086839"/>
+    <application id="org.gnome.Terminal.desktop" score="63" last-seen="1793087466"/>
+    <application id="update-manager.desktop" score="2" last-seen="1793087294"/>
+  </context>
+</application-state>
